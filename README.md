@@ -1,2 +1,4 @@
 # hello-world
-Just an other repository.
+
+hello humans, guessing and messing around.
+Fish pie for lunch? great idea!
